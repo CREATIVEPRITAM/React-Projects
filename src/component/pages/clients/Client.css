@@ -1,0 +1,8 @@
+.client-container {
+    background-color: #FFFFFF;
+    padding: 40px;
+}
+.all-project{
+    flex-wrap: nowrap !important;
+}
+

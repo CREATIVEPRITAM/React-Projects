@@ -1,0 +1,32 @@
+.skill-container {
+    background-color: #E9E9E9;
+}
+
+.skills-holder {
+    margin-top: 20px;
+}
+
+.single-skill-holder {
+    margin-bottom: 25px;
+}
+
+.skill-title {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.skill-name {
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 0;
+    text-transform: uppercase;
+}
+
+
+.progress {
+    height: 2px !important;
+}
+
+.progress-bar {
+    background-color: #39B4B0 !important;
+}

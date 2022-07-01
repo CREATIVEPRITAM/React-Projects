@@ -1,0 +1,27 @@
+.aboutus-holder {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+.aboutus-section{
+    padding: 100px;
+}
+
+.aboutus-title {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.aboutus-text {
+    text-align: center;
+    font-size: 16px;
+}
+
+.aboutus-sign {
+    height: 40px;
+    width: 150px;
+}

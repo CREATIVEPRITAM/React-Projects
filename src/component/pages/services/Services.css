@@ -1,0 +1,35 @@
+.services-container {
+    background-color: #E9E9E9;
+    padding: 40px;
+}
+
+.single-services {
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    text-align: center;
+}
+
+.services-icon {
+    height: 25px;
+    width: 25px;
+    align-self: center;
+    margin-top: 10px;
+}
+
+.services-title {
+    margin-top: 8px;
+    margin-bottom: 8px;
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.services-text {
+    margin-top: 0px;
+    padding: 0px;
+    font-size: 14px;
+    font-weight: 300;
+}
+
+/* #646464 */

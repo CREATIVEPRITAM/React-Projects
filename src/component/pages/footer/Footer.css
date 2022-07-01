@@ -1,0 +1,16 @@
+.footer-container {
+    background-color: #242424;
+    color: white;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-size: 12px;
+}
+
+.list-items {
+    list-style: none;
+}
+
+.list-items>li {
+    font-size: 12px;
+    padding-bottom: 5px;
+}

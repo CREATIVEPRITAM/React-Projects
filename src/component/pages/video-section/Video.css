@@ -1,0 +1,11 @@
+.video-holder {
+    position: relative;
+}
+
+.video-overlay {
+    position: absolute;
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    
+}

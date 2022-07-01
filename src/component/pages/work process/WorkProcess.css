@@ -1,0 +1,28 @@
+.work-process-holder {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+.work-process-section {
+    padding: 30px;
+}
+
+.work-process-title {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.work-process-text {
+    text-align: center;
+    font-size: 16px;
+}
+
+.work-process-sign {
+    height: 40px;
+    width: 150px;
+}

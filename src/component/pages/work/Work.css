@@ -1,0 +1,54 @@
+.img-container {
+    background-color: #F5F5F5;
+}
+.product-title{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.product-img {
+    height: 300px;
+    width: 100%;
+    position: relative;
+}
+
+.img-even {
+    background-color: #E7E6E4;
+}
+
+.img-odd {
+    background-color: #EFEFEF;
+}
+
+.sigle-product {
+    cursor: pointer;
+    padding: 0px 0px !important;
+}
+
+
+.overlay {
+    position: absolute;
+    height: 300px;
+    width: inherit;
+    background-color: gray;
+    z-index: 10;
+    opacity: 0.7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    visibility: hidden;
+    border-radius: 4px;
+}
+
+.sigle-product:hover .overlay {
+    visibility: visible;
+}
+
+.load-more {
+    font-size: 12px;
+    text-align: center;
+    font-weight: bold;
+    padding: 10px 0px;
+    text-transform: uppercase;
+}

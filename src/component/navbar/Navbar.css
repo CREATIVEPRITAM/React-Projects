@@ -1,0 +1,15 @@
+.menu-holder {
+    background-color: #E9E9E9;
+}
+
+.navbar-text {
+    text-transform: uppercase;
+    color: black;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 1.2px;
+}
+
+.navbar-text:hover {
+    color: #39B4B0;
+}

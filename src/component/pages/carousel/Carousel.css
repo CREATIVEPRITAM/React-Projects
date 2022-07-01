@@ -1,0 +1,29 @@
+.carousel {
+    background-color: #39B4B0;
+    height: 250px;
+}
+
+.slider-content-holder {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.slider-text {
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: 2px;
+    line-height: 16px;
+}
+
+.user-name-text {
+    padding-top: 10px;
+    font-weight: normal;
+    text-transform: uppercase;
+}
